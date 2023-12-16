@@ -14,3 +14,4 @@ class Solution:
             if key != 0:
                 return False
         return True
+        
